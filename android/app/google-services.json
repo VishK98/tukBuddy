@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "374587592234",
+    "project_id": "tukbuddy-fdb49",
+    "storage_bucket": "tukbuddy-fdb49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374587592234:android:b4268ee9f6cf95904d3d53",
+        "android_client_info": {
+          "package_name": "com.tukbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374587592234-esuts7sbmg0avk7m84ar7rq4h2k1775d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKZk5Rqa_LOFDI1CEt6qmYdVnQrOrbu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374587592234-esuts7sbmg0avk7m84ar7rq4h2k1775d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374587592234-kf9hsbt1lf7kba462srf5lh4ic600nbn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tukbuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
